@@ -1,6 +1,6 @@
 # Introuction
 
-After a recent ESPHome update, I found you can perform OTA updates on an ESPHome device over Thread only (i.e. no Wi-Fi required). Since I couldn’t find this documented or discussed on the forums, I created this repository to share the discovery.
+After a recent ESPHome update, I found you can perform OTA updates on an ESPHome device over Thread only (i.e. no Wi-Fi required). Since I couldn’t find this documented, only mentioned shortly on forums, I created this repository to share the discovery.
 
 The process is quite trivial for those acquainted to ESPHome. 
 
